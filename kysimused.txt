@@ -1,0 +1,38 @@
+Kas inimene on programmeerimissuund?
+Kas inimene on majandussuund?
+Kas inimene on tütarlaps?
+Kas inimene on poisiklutt?
+Kas inimese juuksed on blondid?
+Kas inimese juuksed on kartul?
+Kas inimese juuksed on pruunid?
+Kas inimese juuksed on punased?
+Kas inimese juuksed on mingit muud värvi?
+Kas inimene sünniaasta on 2006. a?
+Kas inimene sünniaasta on 2007. a?
+Kas inimene sünniaasta on 2008. a?
+Kas inimesel on sinised silmad?
+Kas inimesel on pruunid silmad?
+Kas inimesel on rohelised silmad?
+Kas inimesel on sinikashallid silmad?
+Kas inimesel on rohekashallid silmad?
+Kas inimesel on hallid silmad?
+Kas inimesel on mustad silmad?
+Kas inimesel on muu silmad?
+Kas inimene kannab prille?
+Kas inimene kannab läätse? 
+Kas inimene ei kanna prille?
+Kas inimene sünnipäev on kevadel?
+Kas inimene sünnipäev on sügisel?
+Kas inimene sünnipäev on talvel?
+Kas inimene sünnipäev on suvel?
+Kas inimese lemmikvärv on valge?
+Kas inimese lemmikvärv on must?
+Kas inimese lemmikvärv on roosa?
+Kas inimese lemmikvärv on punane?
+Kas inimese lemmikvärv on oranž?
+Kas inimese lemmikvärv on kollane?
+Kas inimese lemmikvärv on roheline?
+Kas inimese lemmikvärv on sinine?
+Kas inimese lemmikvärv on lilla?
+Kas inimese lemmikvärv on beež?
+Kas inimese lemmikvärv on pruun?
