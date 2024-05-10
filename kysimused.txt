@@ -5,11 +5,9 @@ Kas inimene on poisiklutt?
 Kas inimese juuksed on blondid?
 Kas inimese juuksed on kartul?
 Kas inimese juuksed on pruunid?
-Kas inimese juuksed on punased?
 Kas inimese juuksed on mingit muud värvi?
-Kas inimene sünniaasta on 2006. a?
-Kas inimene sünniaasta on 2007. a?
-Kas inimene sünniaasta on 2008. a?
+Kas inimese sünniaasta on 2006. a?
+Kas inimese sünniaasta on 2007. a?
 Kas inimesel on sinised silmad?
 Kas inimesel on pruunid silmad?
 Kas inimesel on rohelised silmad?
