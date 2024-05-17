@@ -1,10 +1,14 @@
-# erinevad inimesed
-johannapapp = {"nimi": "Johanna Papp", "suund":"progepets", "sugu":"tütarlaps", "juuksed": "pruun", "aasta":"2006", "silmad":"pruunid", "prillid": "Ei", "läätsed": "Ei", "aastaaeg":"sügis", "värv":"roheline"}
-johannasimm = {"nimi": "Johanna Simm", "suund":"progepets", "sugu":"tütarlaps", "juuksed": "pruun", "aasta":"2007","silmad":"sinakashallid", "prillid":"Ei", "läätsed": "Ei", "aastaeg": "kevad", "värv":"lilla"}
+f=open("vastused.txt")
+kysimus=f.readline().split("\t")
+kysimus.pop(0)
+print(kysimus)
 
-# kõik kokku
-kogumik = []
+for rida in f:
+    rida = rida.split("\t")
+    inimene = {}
 
-# lisab neid
-kogumik.append(johannapapp)
-kogumik.append(johannasimm)
+    for i in range(len(kysimus)):
+        inimene[kysimus[i]] = rida[i+1]
+
+print(inimene)
+                
