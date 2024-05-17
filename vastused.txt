@@ -1,0 +1,19 @@
+Kirjuta oma nimi (ees- ja perekonnanimi)	Kas inimene on progepets?	Kas inimene on topg?	Kas inimene on tütarlaps?	Kas inimene on poisiklutt?	Kas inimese juuksed on blondid?	Kas inimese juuksed on kartul?	Kas inimese juuksed on pruunid?	Kas inimese sünniaasta on 2006. a?	Kas inimese sünniaasta on 2007. a?	Kas inimesel on sinised silmad?	Kas inimesel on pruunid silmad?	Kas inimesel on rohelised silmad?	Kas inimesel on sinikashallid silmad?	Kas inimesel on rohekashallid silmad?	Kas inimesel on muu silmad?	Kas inimene kannab prille?	Kas inimene ei kanna prille?	Kas inimese sünnipäev on kevadel?	Kas inimese sünnipäev on sügisel?	Kas inimese sünnipäev on talvel?	Kas inimese sünnipäev on suvel?	Kas inimese lemmikvärv on must?	Kas inimese lemmikvärv on roosa?	Kas inimese lemmikvärv on punane?	Kas inimese lemmikvärv on roheline?	Kas inimese lemmikvärv on sinine?	Kas inimese lemmikvärv on lilla?	Kas inimese lemmikvärv on pruun?
+Johanna Simm	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei
+Johanna Papp	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei
+Mia-Maria Puusaag	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei
+Aaron Rändla	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei
+Helena Kotka	Jah	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei
+Johann Sild	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Ei
+Triin Mäekivi	Ei	Jah	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei
+Annika Märtin	Jah	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei
+Marii Kõss	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei
+Henri Roger Luhala	Jah	Ei	Ei	Jah	Ei	Jah	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei
+Tanel Üprus	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei
+Lisette Roos	Ei	Jah	Jah	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei
+Kaspar Noor	Jah	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Jah
+Iko Ingmar Jõks	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei
+Lisa Pruuli	Jah	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei
+Oskar Treffner 	Ei	Jah	Ei	Jah	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei
+Aleksander Nikitin	Jah	Ei	Ei	Jah	Ei	Ei	Jah	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Ei
+Linda Maria Lumi	Ei	Jah	Jah	Ei	Ei	Ei	Jah	Jah	Ei	Ei	Ei	Ei	Jah	Ei	Ei	Ei	Jah	Ei	Jah	Ei	Ei	Ei	Ei	Ei	Ei	Jah	Ei	Ei
