@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Game</title>
+</head>
+<body>
+    {% if question %}
+        <h1>{{ question }}</h1>
+        <form action="{{ url_for('answer') }}" method="POST">
+            <button type="submit" name="answer" value="Jah">Jah</button>
+            <button type="submit" name="answer" value="Ei">Ei</button>
+        </form>
+    {% else %}
+        <h1>No more questions!</h1>
+        <h2>Remaining names: {{ session['nimed'] }}</h2>
+        <a href="{{ url_for('reset') }}">Restart</a>
+    {% endif %}
+</body>
+</html>
