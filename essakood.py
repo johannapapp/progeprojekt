@@ -6,7 +6,6 @@ kysimus=f.readline().split("\t")
 kysimus.pop(0)
 suur_sonastik = {}
 
-
 # 1. for tsükkel, splittib iga inimese vastused ja teeb igast inimesest eraldi sõnastiku
 for rida in f:
     rida = rida.split("\t")
@@ -31,6 +30,8 @@ while len(kysimus) >= 1:
         # võtab ära kysimuse, mida kysib
         kysimus.remove(question)
 
+
+
         # uus list, kuhu paneme nimed, mille kohta see käib.
         uus = []
         
@@ -52,3 +53,5 @@ while len(kysimus) >= 1:
 
 # print(kysimus)
 # print(suur_sonastik)
+
+
