@@ -1,7 +1,0 @@
-Kas inimene on progepets?	Kas inimene on topg?	
-Kas inimene on tütarlaps?	Kas inimene on poisiklutt?	Kas inimese juuksed on blondid?	Kas inimese juuksed on kartul?	Kas inimese juuksed on pruunid?
-Kas inimese sünniaasta on 2006. a?	Kas inimese sünniaasta on 2007. a?
-Kas inimesel on sinised silmad?	Kas inimesel on pruunid silmad?	Kas inimesel on rohelised silmad?	Kas inimesel on sinikashallid silmad?	Kas inimesel on rohekashallid silmad?	Kas inimesel on muu silmad?
-Kas inimene kannab prille?	Kas inimene ei kanna prille?
-Kas inimese sünnipäev on kevadel?	Kas inimese sünnipäev on sügisel?	Kas inimese sünnipäev on talvel?	Kas inimese sünnipäev on suvel?	
-Kas inimese lemmikvärv on must?	Kas inimese lemmikvärv on roosa?	Kas inimese lemmikvärv on punane?	Kas inimese lemmikvärv on roheline?	Kas inimese lemmikvärv on sinine?	Kas inimese lemmikvärv on lilla?	Kas inimese lemmikvärv on pruun?
