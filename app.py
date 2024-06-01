@@ -30,6 +30,13 @@ def index():
     
     return render_template('index.html', question=session['current_question'])
 
+@app.route('/start_game', methods=['POST'])
+def start_game():
+    session['questions'] = questions.copy()
+    session['nimed'] = list(data.keys())
+    session['current_question'] = random.choice(session['questions']) if session['questions'] else None
+    return redirect(url_for('index'))
+
 @app.route('/answer', methods=['POST'])
 def answer():
     user_answer = request.form.get('answer')
