@@ -7,24 +7,16 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    {% if start %}
-        <h1>Tere tulemast!</h1>
-        <form action="{{ url_for('start_game') }}" method="POST">
-            <button type="submit">Alusta</button>
-        </form>
-    {% else %}  
-
         {% if question %}
             <h1>{{ question }}</h1>
             <form action="{{ url_for('answer') }}" method="POST">
                 <button type="submit" name="answer" value="Jah">Jah</button>
                 <button type="submit" name="answer" value="Ei">Ei</button>
             </form>
-    {% else %}
-        <h1>Rohkem küsimusi pole!</h1>
-        <h2>Valitud isik: {{ session['nimed'] }}</h2>
-        <a href="{{ url_for('reset') }}">Restart</a>
-    {% endif %}
-    {% endif %}
+        {% else %}
+            <h1>Rohkem küsimusi pole!</h1>
+            <h2>Valitud isik: {{ session['nimed'] }}</h2>
+            <a href="{{ url_for('reset') }}">Restart</a>
+        {% endif %}
 </body>
 </html>
