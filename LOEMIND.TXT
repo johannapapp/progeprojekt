@@ -1,0 +1,9 @@
+Enne: 
+Veendu, et sinu arvutis on Python ja Flask installeeritud
+
+1. käivitage kood app.py, ning avage antud link oma veebis. ("http://127.0.0.1:5000")
+2. Mängu eesmärgiks on arvata ära inimene, kelle Teie valisite. 
+2. Mäng avaneb kohe küsimustega, kuid enne seda avage docsi fail "Guess who -- nimed".
+3. Mäng seisneb selles, et te valite docsist "Guess who -- nimed" ühe inimese ning hakkate vastama küsimustele selle inimese kohta nuppudega "Jah" või "Ei". 
+4. Kui küsimused saavad otsa, siis ekraanil on kirjas arvatud inimene
+5. Mängu saab uuesti alustada nupuga "restart"
