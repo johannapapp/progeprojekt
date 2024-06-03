@@ -4,7 +4,7 @@ import random
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'
 
-# Load questions and answers from the file
+# kysimused failist
 def load_data():
     with open("vastused.txt", "r") as f:
         questions = f.readline().strip().split("\t")[1:]
@@ -35,7 +35,7 @@ def answer():
     user_answer = request.form.get('answer')
     question = session['current_question']
 
-    # Debugging output
+    # Debugging 
     print(f"User answered: {user_answer}")
     print(f"Question: {question}")
     
@@ -44,7 +44,7 @@ def answer():
     new_nimed = [name for name in session['nimed'] if data[name][question] == user_answer]
     session['nimed'] = new_nimed
 
-    # Debugging output
+    # Debugging 
     print(f"Remaining names: {session['nimed']}")
 
     if session['questions']:
@@ -54,6 +54,7 @@ def answer():
 
     return redirect(url_for('index'))
 
+# et alustada mängu uuesti
 @app.route('/reset')
 def reset():
     session.clear()
